@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285719169840','6285719169840','6285719169840'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6285719169840'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285719169840' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['62895622436731','62895622436731','62895622436731'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['62895622436731'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '62895622436731' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'AkbarTmvn' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'AkbarBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'AkbarTmvn' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'IkyyFemes' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Ikyy-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'IkyyFemes' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/akbarakbar6985'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.ig = 'https://instagram.com/ikyygz26_'
+global.mygc = 'https://chat.whatsapp.com/JGYuA1bCTzyLIeA84zphAU'
 global.myweb = 'https://s.id/chikabot'
-global.email = 'freefireuncheak81@gmail.com'
+global.email = 'dudabnl30@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© AkbarBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'AkbarTmvn' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Ikyy-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'IkyyFemes' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
